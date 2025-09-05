@@ -169,7 +169,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Dhirendra Gundre** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | **Radha Waman** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
-| Nikhil Shah | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Nikhil Shah | Coordinator  | [GitHub](https://github.com/nikhil191206) | [LinkedIn](https://www.linkedin.com/in/nikhil-shah191206/) | [Twitter]() | [Other Links]() |
 | Shreyans Jain | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Prasnna Mehkarkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Parth Sardeshmukh | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
